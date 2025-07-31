@@ -1,0 +1,1 @@
+1) write a program to accept number from user. if number is odd store square else store qube in result variable & display it. use ternary operator
