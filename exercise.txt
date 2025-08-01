@@ -1,1 +1,10 @@
 1) write a program to accept number from user. if number is odd store square else store qube in result variable & display it. use ternary operator
+
+use simple decision making if 
+2) write a program to convert 24 hours format time into 12 hours format time & display it 
+3) write a program to findout when triangle is bigger triangle from given base & height it. 
+
+use if else decision making
+4) write a program to findout which product is cheper to buy(as per price per gram) using given weight & MRP of 2 product.
+5) write a program to findout cheapter internet plan using Plan Price & data pack if offers of 2 plan
+
