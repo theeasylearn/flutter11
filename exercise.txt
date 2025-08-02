@@ -8,3 +8,41 @@ use if else decision making
 4) write a program to findout which product is cheper to buy(as per price per gram) using given weight & MRP of 2 product.
 5) write a program to findout cheapter internet plan using Plan Price & data pack if offers of 2 plan
 
+6) write a program to findout which stock will give better return in terms dividend per 100 Rs from given 2 stock's market price and last year dividend.
+
+use if else if ladder decision making statements
+----------------------------------------------------
+7) write a program to calculate bmi(body to mass index) and display obesity level of person from given height
+    (foot and inch) and weight.
+BMI = weight (kg) / [height (m)]²
+
+For example, if your weight is 70 kg and your height is 1.75 m:
+BMI = 70 / (1.75 × 1.75) = 22.86
+📊 BMI Categories (For Adults):
+BMI Range	        Category
+Less than 18.5	    Underweight
+18.5 – 24.9	        Normal (Healthy weight)
+25 – 29.9	        Overweight
+30 – 34.9	        Obesity (Class I)
+35 – 39.9	        Obesity (Class II)
+40 or more	        Extreme Obesity (Class III)
+
+8) write a program to accept month number from user and display name of the month 
+
+nested decision making 
+----------------------------------
+9) write a program to check whether given year is leap year or not. (use nested decision making)
+use website wikihow for understanding of concept
+10) write a program to accept birth date and month from user. decide zodiac sign from below table 
+Aries: March 21–April 19
+Taurus: April 20–May 20
+Gemini: May 21–June 21
+Cancer: June 22–July 22
+Leo: July 23–August 22
+Virgo: August 23–September 22
+Libra: September 23–October 22
+Scorpio: October 24–November 21
+Sagittarius: November 22–December 21
+Capricorn: December 22–January 19
+Aquarius: January 20–February 18
+Pisces: February 19–March 20
