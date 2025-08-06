@@ -59,7 +59,6 @@ loop
 3) 1 4 9 16 25 36 49 64 ...
 4) 0 0 1 2 3 5 8 13 21 .... 1000
 
-
 5) write a program to find & display factorial of given number. 
 6) write a program to find & display whether given number is prime number or not 
 7) write a program to find & display whether given number is perfect number or not 
@@ -74,5 +73,3 @@ for loop
 --------------------------------------------------------------
 1) write a program to program exponent of given value 
 2) write a program to findout minimum and maximum from numeric list 
-
-
