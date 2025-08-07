@@ -62,7 +62,8 @@ loop
 5) write a program to find & display factorial of given number. 
 6) write a program to find & display whether given number is prime number or not 
 7) write a program to find & display whether given number is perfect number or not 
-
+8) write a program to findout whether given number is composite number or not 
+9) write a program to findout whether given number is Palindromic Numbers
 for in loop 
 -------------------------------
 1) write a program to findout whether how many names in list start with vowels.
