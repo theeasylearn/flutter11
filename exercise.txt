@@ -94,3 +94,11 @@ for In loop
 1) write a program to count odd & event number in mixed type list 
 2) write a program to count words which start with vowels(a,e,i,o,u)
     ['apple','mango','elephant','orange','india','ball','hourse',10,true,null]
+
+functions
+1) write a program to create function that return simple interest of given amount, rate, year 
+
+2) write a program to create function that convert given dollar into rupees 
+
+
+3) write a program that return current time. 
