@@ -97,8 +97,12 @@ for In loop
 
 functions
 1) write a program to create function that return simple interest of given amount, rate, year 
-
 2) write a program to create function that convert given dollar into rupees 
-
-
 3) write a program that return current time. 
+---------------------------------------------------------------------------------------------
+arrow function
+1) write a program to convert ceilcius into farenheit 
+2) write a program to convert grams into kilograms 
+3) write a program to findout and return largest number from two number 
+4) write a program to findout and return smallest number from three number 
+
