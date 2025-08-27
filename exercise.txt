@@ -106,3 +106,16 @@ arrow function
 3) write a program to findout and return largest number from two number 
 4) write a program to findout and return smallest number from three number 
 
+OOP 
+--------------------------------
+1) create class Product. it should have below instance variable 
+name, price, quantity, weight, description 
+
+create constuctor for initilization
+create method to display 
+
+2) create class Match . it should have below instance variable 
+team1, team2, venue, datetime, result, team1_run,team2_run,
+
+create constuctor for initilization
+create method to display all property, and also declare who is winner
