@@ -119,3 +119,9 @@ team1, team2, venue, datetime, result, team1_run,team2_run,
 
 create constuctor for initilization
 create method to display all property, and also declare who is winner
+
+
+3) class class Currency it has one argument constuctor rupees which will initilize instance variable rupees. and it has setter rupees which will rupees also ensure rupees is not negative and it has below getter 
+    dollar which return rupees into dollar 
+    euro which return rupees into euro
+    pound which return rupees into pound 
