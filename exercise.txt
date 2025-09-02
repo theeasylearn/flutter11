@@ -125,3 +125,17 @@ create method to display all property, and also declare who is winner
     dollar which return rupees into dollar 
     euro which return rupees into euro
     pound which return rupees into pound 
+
+inheritance
+------------------------------------
+1) create single level inheritance example 
+    create class MyDate which store date using dart library class 
+    it has methods 
+    --------------
+        getDate() returns 02-09-2025
+    create class MyDateFormatter which extends MyDate class 
+        it has methods
+        ------------------------
+            getDayOfWeek() return Tuesday 
+            getFullDate()  return Tuesday 02-sept-2025
+            getFullDateTime()  return 11:12 AM Tuesday 02-sept-2025
