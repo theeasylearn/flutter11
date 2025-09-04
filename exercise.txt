@@ -139,3 +139,16 @@ inheritance
             getDayOfWeek() return Tuesday 
             getFullDate()  return Tuesday 02-sept-2025
             getFullDateTime()  return 11:12 AM Tuesday 02-sept-2025
+
+create multilevel inheritance example 
+    Kilo  has contructor and function that returns KiloGram 
+    Kiwntle has contructor and function that returns  Kiwntle
+    Ton  has contructor and function that returns Ton 
+
+create multilevel inheritance example
+    Foot has contructor for inch and function that returns Foot
+    Meter has contructor and function that returns Meter 
+    KiloMeter has contructor and function that returns KiloMeter
+    Mile has contructor and function that returns Mile 
+
+
