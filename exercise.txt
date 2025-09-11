@@ -152,3 +152,10 @@ create multilevel inheritance example
     Mile has contructor and function that returns Mile 
 
 
+Create example using 55th example
+    make total of all book 
+    also findout average price of all book 
+    display books below 200 rs price 
+    search book using given name & author name 
+        for example book name The Lean Startup and author is Eric Ries
+    if book found display all detail otherwise display message book not found
