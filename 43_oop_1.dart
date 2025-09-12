@@ -19,7 +19,6 @@ void main()
     b1.author = "James clear";
     b1.price = 1000;
 
-    b1.display();
 
     //create object
     Book b2 = new Book();
@@ -28,6 +27,7 @@ void main()
     b2.author = "Anderson";
     b2.price = 1200;
 
+    b1.display();
     b2.display();
 
 }
